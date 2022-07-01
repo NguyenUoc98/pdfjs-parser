@@ -1,0 +1,15 @@
+{
+  "name": "pdfjs-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Van Uoc <uocnv.soict.hust@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "pdfjs-dist": "^2.14.305"
+  }
+}
